@@ -1,4 +1,4 @@
-import { getAllUsers, getOneUser, deleteUser, createUser  } from "../controller/user.js";
+import { getAllUsers, getOneUser, deleteUser, createUser  } from "./controller/user.js";
 import express from "express";
 
 
